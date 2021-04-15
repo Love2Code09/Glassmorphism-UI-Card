@@ -119,6 +119,8 @@ html {
     -webkit-box-shadow: 20px 20px 22px rgba(0, 0, 0, 0.2);
     box-shadow: 20px 20px 22px rgba(0, 0, 0, 0.2);
     color: white;
+    outline:none !important;
+    margin-bottom:5%;
 }
 .content {
     width:fit-content;
